@@ -56,38 +56,8 @@ foodiebot/
 └── README.md                     # This file
 ```
 
-## 🚀 Installation & Setup
-
-### Prerequisites
-- Python 3.8 or higher
-- Git
-
-### Installation Steps
-
-1. **Clone the repository**
-   ```bash
-   cd "C:\Users\Admin\Assignments\Tecnvirons Pvt LTD\foodiebot"
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Generate product database**
-   ```bash
-   python data/product_generator.py
-   ```
-
-4. **Initialize database**
-   ```bash
-   python database/database_manager.py
-   ```
-
-5. **Run the application**
-   ```bash
-   streamlit run app.py
-   ```
+HOW TO START THE APPLICATION
+python -m streamlit run enhanced_streamlit_app.py
 
 ## 💻 Usage
 
@@ -279,3 +249,4 @@ Recommendations: Korean BBQ Tacos, Spicy Cajun Wings, Buffalo Chicken Burger
 ---
 
 *FoodieBot - Where AI meets your appetite!* 🍔🤖
+

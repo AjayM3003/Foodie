@@ -1,0 +1,3075 @@
+[
+  {
+    "product_id": "FF001",
+    "name": "Tex-Mex Fiesta Burger",
+    "category": "Burgers",
+    "description": "Jalapeños, pepper jack, and guacamole",
+    "ingredients": [
+      "beef patty",
+      "pepper jack cheese",
+      "jalapeños",
+      "guacamole",
+      "salsa",
+      "chipotle bun"
+    ],
+    "price": 9.65,
+    "calories": 622,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "spicy",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 80,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "tex-mex-fiesta-burger-burgers"
+  },
+  {
+    "product_id": "FF002",
+    "name": "Tex-Mex Fiesta Burger",
+    "category": "Burgers",
+    "description": "Jalapeños, pepper jack, and guacamole",
+    "ingredients": [
+      "beef patty",
+      "pepper jack cheese",
+      "jalapeños",
+      "guacamole",
+      "salsa",
+      "chipotle bun"
+    ],
+    "price": 12.69,
+    "calories": 603,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "spicy",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 67,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "tex-mex-fiesta-burger-burgers"
+  },
+  {
+    "product_id": "FF003",
+    "name": "Tex-Mex Fiesta Burger",
+    "category": "Burgers",
+    "description": "Jalapeños, pepper jack, and guacamole",
+    "ingredients": [
+      "beef patty",
+      "pepper jack cheese",
+      "jalapeños",
+      "guacamole",
+      "salsa",
+      "chipotle bun"
+    ],
+    "price": 9.71,
+    "calories": 621,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "spicy",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 93,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "tex-mex-fiesta-burger-burgers"
+  },
+  {
+    "product_id": "FF004",
+    "name": "Plant-Based Paradise Burger",
+    "category": "Burgers",
+    "description": "Beyond meat patty with avocado and sprouts",
+    "ingredients": [
+      "plant patty",
+      "avocado",
+      "sprouts",
+      "vegan mayo",
+      "tomato",
+      "whole wheat bun"
+    ],
+    "price": 11.25,
+    "calories": 615,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 68,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "plant-based-paradise-burger-burgers"
+  },
+  {
+    "product_id": "FF005",
+    "name": "Buffalo Chicken Burger",
+    "category": "Burgers",
+    "description": "Crispy chicken with buffalo sauce and blue cheese",
+    "ingredients": [
+      "chicken breast",
+      "buffalo sauce",
+      "blue cheese",
+      "celery",
+      "lettuce",
+      "brioche bun"
+    ],
+    "price": 9.02,
+    "calories": 599,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "spicy",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 68,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "buffalo-chicken-burger-burgers"
+  },
+  {
+    "product_id": "FF006",
+    "name": "Mediterranean Lamb Burger",
+    "category": "Burgers",
+    "description": "Herb-crusted lamb with feta and tzatziki",
+    "ingredients": [
+      "lamb patty",
+      "feta cheese",
+      "tzatziki",
+      "red onion",
+      "arugula",
+      "pita bun"
+    ],
+    "price": 13.24,
+    "calories": 651,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 83,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "mediterranean-lamb-burger-burgers"
+  },
+  {
+    "product_id": "FF007",
+    "name": "Classic American Burger",
+    "category": "Burgers",
+    "description": "Traditional beef burger with classic toppings",
+    "ingredients": [
+      "beef patty",
+      "american cheese",
+      "lettuce",
+      "tomato",
+      "pickles",
+      "brioche bun"
+    ],
+    "price": 9.25,
+    "calories": 793,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 88,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "classic-american-burger-burgers"
+  },
+  {
+    "product_id": "FF008",
+    "name": "BBQ Bacon Cheeseburger",
+    "category": "Burgers",
+    "description": "Smoky BBQ sauce with crispy bacon and cheddar",
+    "ingredients": [
+      "beef patty",
+      "cheddar cheese",
+      "bacon",
+      "bbq sauce",
+      "onion rings",
+      "brioche bun"
+    ],
+    "price": 10.23,
+    "calories": 819,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 74,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "bbq-bacon-cheeseburger-burgers"
+  },
+  {
+    "product_id": "FF009",
+    "name": "Mushroom Swiss Delight",
+    "category": "Burgers",
+    "description": "Sautéed mushrooms with melted swiss cheese",
+    "ingredients": [
+      "beef patty",
+      "swiss cheese",
+      "mushrooms",
+      "caramelized onions",
+      "garlic aioli",
+      "brioche bun"
+    ],
+    "price": 10.84,
+    "calories": 679,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 78,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "mushroom-swiss-delight-burgers"
+  },
+  {
+    "product_id": "FF010",
+    "name": "Tex-Mex Fiesta Burger",
+    "category": "Burgers",
+    "description": "Jalapeños, pepper jack, and guacamole",
+    "ingredients": [
+      "beef patty",
+      "pepper jack cheese",
+      "jalapeños",
+      "guacamole",
+      "salsa",
+      "chipotle bun"
+    ],
+    "price": 14.31,
+    "calories": 619,
+    "prep_time": "8-10 mins",
+    "dietary_tags": [
+      "spicy",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 88,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "tex-mex-fiesta-burger-burgers"
+  },
+  {
+    "product_id": "FF011",
+    "name": "Meat Lovers Supreme",
+    "category": "Pizza",
+    "description": "Pepperoni, sausage, ham, and bacon",
+    "ingredients": [
+      "pizza dough",
+      "pepperoni",
+      "sausage",
+      "ham",
+      "bacon",
+      "mozzarella",
+      "tomato sauce"
+    ],
+    "price": 14.47,
+    "calories": 745,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 83,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "meat-lovers-supreme-pizza"
+  },
+  {
+    "product_id": "FF012",
+    "name": "Mediterranean Olive",
+    "category": "Pizza",
+    "description": "Kalamata olives, feta, and sun-dried tomatoes",
+    "ingredients": [
+      "pizza dough",
+      "kalamata olives",
+      "feta cheese",
+      "sun-dried tomatoes",
+      "oregano"
+    ],
+    "price": 20.31,
+    "calories": 763,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 78,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "mediterranean-olive-pizza"
+  },
+  {
+    "product_id": "FF013",
+    "name": "Mediterranean Olive",
+    "category": "Pizza",
+    "description": "Kalamata olives, feta, and sun-dried tomatoes",
+    "ingredients": [
+      "pizza dough",
+      "kalamata olives",
+      "feta cheese",
+      "sun-dried tomatoes",
+      "oregano"
+    ],
+    "price": 15.52,
+    "calories": 572,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 95,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "mediterranean-olive-pizza"
+  },
+  {
+    "product_id": "FF014",
+    "name": "Meat Lovers Supreme",
+    "category": "Pizza",
+    "description": "Pepperoni, sausage, ham, and bacon",
+    "ingredients": [
+      "pizza dough",
+      "pepperoni",
+      "sausage",
+      "ham",
+      "bacon",
+      "mozzarella",
+      "tomato sauce"
+    ],
+    "price": 16.67,
+    "calories": 598,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 78,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "meat-lovers-supreme-pizza"
+  },
+  {
+    "product_id": "FF015",
+    "name": "Four Cheese Blend",
+    "category": "Pizza",
+    "description": "Mozzarella, cheddar, parmesan, and gouda",
+    "ingredients": [
+      "pizza dough",
+      "mozzarella",
+      "cheddar",
+      "parmesan",
+      "gouda",
+      "herbs"
+    ],
+    "price": 13.94,
+    "calories": 621,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 80,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "four-cheese-blend-pizza"
+  },
+  {
+    "product_id": "FF016",
+    "name": "BBQ Chicken Ranch",
+    "category": "Pizza",
+    "description": "BBQ chicken with ranch drizzle and red onions",
+    "ingredients": [
+      "pizza dough",
+      "bbq chicken",
+      "ranch dressing",
+      "red onions",
+      "mozzarella"
+    ],
+    "price": 18.3,
+    "calories": 656,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 84,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "bbq-chicken-ranch-pizza"
+  },
+  {
+    "product_id": "FF017",
+    "name": "Mediterranean Olive",
+    "category": "Pizza",
+    "description": "Kalamata olives, feta, and sun-dried tomatoes",
+    "ingredients": [
+      "pizza dough",
+      "kalamata olives",
+      "feta cheese",
+      "sun-dried tomatoes",
+      "oregano"
+    ],
+    "price": 17.42,
+    "calories": 740,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "mediterranean-olive-pizza"
+  },
+  {
+    "product_id": "FF018",
+    "name": "Margherita Classic",
+    "category": "Pizza",
+    "description": "Fresh mozzarella, basil, and San Marzano tomatoes",
+    "ingredients": [
+      "pizza dough",
+      "mozzarella",
+      "fresh basil",
+      "san marzano tomatoes",
+      "olive oil"
+    ],
+    "price": 13.16,
+    "calories": 670,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 72,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "margherita-classic-pizza"
+  },
+  {
+    "product_id": "FF019",
+    "name": "White Sauce Spinach",
+    "category": "Pizza",
+    "description": "Creamy white sauce with spinach and ricotta",
+    "ingredients": [
+      "pizza dough",
+      "white sauce",
+      "spinach",
+      "ricotta",
+      "mozzarella",
+      "garlic"
+    ],
+    "price": 14.75,
+    "calories": 705,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 77,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "white-sauce-spinach-pizza"
+  },
+  {
+    "product_id": "FF020",
+    "name": "Spicy Pepperoni",
+    "category": "Pizza",
+    "description": "Double pepperoni with jalapeños and hot sauce",
+    "ingredients": [
+      "pizza dough",
+      "double pepperoni",
+      "jalapeños",
+      "hot sauce",
+      "mozzarella"
+    ],
+    "price": 20.78,
+    "calories": 642,
+    "prep_time": "15-20 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 65,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "spicy-pepperoni-pizza"
+  },
+  {
+    "product_id": "FF021",
+    "name": "Buffalo Wings",
+    "category": "Fried Chicken",
+    "description": "Classic buffalo wings with celery and blue cheese",
+    "ingredients": [
+      "chicken wings",
+      "buffalo sauce",
+      "celery",
+      "blue cheese dressing"
+    ],
+    "price": 10.56,
+    "calories": 694,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 80,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "buffalo-wings-fried-chicken"
+  },
+  {
+    "product_id": "FF022",
+    "name": "Classic Fried Chicken",
+    "category": "Fried Chicken",
+    "description": "Traditional southern-style fried chicken",
+    "ingredients": [
+      "chicken pieces",
+      "seasoned flour",
+      "buttermilk",
+      "secret spices"
+    ],
+    "price": 9.11,
+    "calories": 690,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 68,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "classic-fried-chicken-fried-chicken"
+  },
+  {
+    "product_id": "FF023",
+    "name": "Nashville Hot Sandwich",
+    "category": "Fried Chicken",
+    "description": "Fiery hot chicken sandwich with pickles",
+    "ingredients": [
+      "chicken breast",
+      "nashville hot seasoning",
+      "pickles",
+      "mayo",
+      "brioche bun"
+    ],
+    "price": 12.18,
+    "calories": 526,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 92,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "nashville-hot-sandwich-fried-chicken"
+  },
+  {
+    "product_id": "FF024",
+    "name": "Teriyaki Glazed Wings",
+    "category": "Fried Chicken",
+    "description": "Asian-inspired teriyaki glazed wings",
+    "ingredients": [
+      "chicken wings",
+      "teriyaki sauce",
+      "sesame seeds",
+      "green onions"
+    ],
+    "price": 10.63,
+    "calories": 509,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 75,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "teriyaki-glazed-wings-fried-chicken"
+  },
+  {
+    "product_id": "FF025",
+    "name": "Korean Fried Chicken",
+    "category": "Fried Chicken",
+    "description": "Twice-fried with gochujang glaze",
+    "ingredients": [
+      "chicken pieces",
+      "gochujang",
+      "rice flour",
+      "sesame seeds",
+      "scallions"
+    ],
+    "price": 9.66,
+    "calories": 710,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 89,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "korean-fried-chicken-fried-chicken"
+  },
+  {
+    "product_id": "FF026",
+    "name": "Nashville Hot Sandwich",
+    "category": "Fried Chicken",
+    "description": "Fiery hot chicken sandwich with pickles",
+    "ingredients": [
+      "chicken breast",
+      "nashville hot seasoning",
+      "pickles",
+      "mayo",
+      "brioche bun"
+    ],
+    "price": 15.3,
+    "calories": 490,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 78,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "nashville-hot-sandwich-fried-chicken"
+  },
+  {
+    "product_id": "FF027",
+    "name": "Spicy Cajun Popcorn Chicken",
+    "category": "Fried Chicken",
+    "description": "Bite-sized cajun spiced chicken pieces",
+    "ingredients": [
+      "chicken pieces",
+      "cajun seasoning",
+      "flour",
+      "buttermilk"
+    ],
+    "price": 14.37,
+    "calories": 711,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 70,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "spicy-cajun-popcorn-chicken-fried-chicken"
+  },
+  {
+    "product_id": "FF028",
+    "name": "Buffalo Wings",
+    "category": "Fried Chicken",
+    "description": "Classic buffalo wings with celery and blue cheese",
+    "ingredients": [
+      "chicken wings",
+      "buffalo sauce",
+      "celery",
+      "blue cheese dressing"
+    ],
+    "price": 14.12,
+    "calories": 684,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 89,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "buffalo-wings-fried-chicken"
+  },
+  {
+    "product_id": "FF029",
+    "name": "Spicy Cajun Popcorn Chicken",
+    "category": "Fried Chicken",
+    "description": "Bite-sized cajun spiced chicken pieces",
+    "ingredients": [
+      "chicken pieces",
+      "cajun seasoning",
+      "flour",
+      "buttermilk"
+    ],
+    "price": 10.02,
+    "calories": 688,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 94,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "spicy-cajun-popcorn-chicken-fried-chicken"
+  },
+  {
+    "product_id": "FF030",
+    "name": "Honey Mustard Tenders",
+    "category": "Fried Chicken",
+    "description": "Crispy chicken tenders with honey mustard",
+    "ingredients": [
+      "chicken tenders",
+      "honey mustard",
+      "buttermilk coating",
+      "herbs"
+    ],
+    "price": 8.91,
+    "calories": 701,
+    "prep_time": "12-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 69,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "honey-mustard-tenders-fried-chicken"
+  },
+  {
+    "product_id": "FF031",
+    "name": "Al Pastor Tacos",
+    "category": "Tacos & Wraps",
+    "description": "Marinated pork with pineapple and onion",
+    "ingredients": [
+      "corn tortillas",
+      "al pastor pork",
+      "pineapple",
+      "onion",
+      "cilantro"
+    ],
+    "price": 10.33,
+    "calories": 517,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 82,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "al-pastor-tacos-tacos-wraps"
+  },
+  {
+    "product_id": "FF032",
+    "name": "Street Tacos Trio",
+    "category": "Tacos & Wraps",
+    "description": "Three authentic street tacos with cilantro and onion",
+    "ingredients": [
+      "corn tortillas",
+      "carnitas",
+      "cilantro",
+      "onion",
+      "lime"
+    ],
+    "price": 8.57,
+    "calories": 527,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 75,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "street-tacos-trio-tacos-wraps"
+  },
+  {
+    "product_id": "FF033",
+    "name": "Breakfast Burrito",
+    "category": "Tacos & Wraps",
+    "description": "Scrambled eggs, bacon, and hash browns",
+    "ingredients": [
+      "flour tortilla",
+      "scrambled eggs",
+      "bacon",
+      "hash browns",
+      "cheese",
+      "salsa"
+    ],
+    "price": 7.82,
+    "calories": 585,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 83,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "breakfast-burrito-tacos-wraps"
+  },
+  {
+    "product_id": "FF034",
+    "name": "Shrimp Tacos",
+    "category": "Tacos & Wraps",
+    "description": "Grilled shrimp with mango salsa",
+    "ingredients": [
+      "corn tortillas",
+      "grilled shrimp",
+      "mango salsa",
+      "cabbage",
+      "chipotle crema"
+    ],
+    "price": 8.33,
+    "calories": 478,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 65,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "shrimp-tacos-tacos-wraps"
+  },
+  {
+    "product_id": "FF035",
+    "name": "Buffalo Chicken Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Buffalo chicken with lettuce and ranch",
+    "ingredients": [
+      "flour tortilla",
+      "buffalo chicken",
+      "lettuce",
+      "tomato",
+      "ranch dressing"
+    ],
+    "price": 10.09,
+    "calories": 391,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 78,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "buffalo-chicken-wrap-tacos-wraps"
+  },
+  {
+    "product_id": "FF036",
+    "name": "California Burrito",
+    "category": "Tacos & Wraps",
+    "description": "Carne asada with fries wrapped in flour tortilla",
+    "ingredients": [
+      "flour tortilla",
+      "carne asada",
+      "french fries",
+      "cheese",
+      "guacamole",
+      "sour cream"
+    ],
+    "price": 8.41,
+    "calories": 569,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 88,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "california-burrito-tacos-wraps"
+  },
+  {
+    "product_id": "FF037",
+    "name": "Korean BBQ Tacos",
+    "category": "Tacos & Wraps",
+    "description": "Bulgogi beef with kimchi and sriracha mayo",
+    "ingredients": [
+      "corn tortillas",
+      "bulgogi beef",
+      "kimchi",
+      "sriracha mayo",
+      "sesame seeds"
+    ],
+    "price": 12.5,
+    "calories": 582,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "adventurous"
+    ],
+    "allergens": [],
+    "popularity_score": 67,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 5,
+    "image_prompt": "korean-bbq-tacos-tacos-wraps"
+  },
+  {
+    "product_id": "FF038",
+    "name": "Chicken Quesadilla",
+    "category": "Tacos & Wraps",
+    "description": "Grilled chicken with melted cheese blend",
+    "ingredients": [
+      "flour tortilla",
+      "grilled chicken",
+      "cheese blend",
+      "peppers",
+      "onions"
+    ],
+    "price": 9.1,
+    "calories": 620,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 81,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "chicken-quesadilla-tacos-wraps"
+  },
+  {
+    "product_id": "FF039",
+    "name": "Veggie Black Bean Wrap",
+    "category": "Tacos & Wraps",
+    "description": "Black beans with rice and fresh vegetables",
+    "ingredients": [
+      "flour tortilla",
+      "black beans",
+      "rice",
+      "lettuce",
+      "tomato",
+      "avocado"
+    ],
+    "price": 7.67,
+    "calories": 440,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 84,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "veggie-black-bean-wrap-tacos-wraps"
+  },
+  {
+    "product_id": "FF040",
+    "name": "Al Pastor Tacos",
+    "category": "Tacos & Wraps",
+    "description": "Marinated pork with pineapple and onion",
+    "ingredients": [
+      "corn tortillas",
+      "al pastor pork",
+      "pineapple",
+      "onion",
+      "cilantro"
+    ],
+    "price": 9.25,
+    "calories": 469,
+    "prep_time": "6-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 84,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "al-pastor-tacos-tacos-wraps"
+  },
+  {
+    "product_id": "FF041",
+    "name": "Garlic Bread",
+    "category": "Sides & Appetizers",
+    "description": "Toasted bread with garlic butter and parmesan",
+    "ingredients": [
+      "bread",
+      "garlic butter",
+      "parmesan cheese",
+      "herbs"
+    ],
+    "price": 9.72,
+    "calories": 491,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 91,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "garlic-bread-sides-appetizers"
+  },
+  {
+    "product_id": "FF042",
+    "name": "Mozzarella Sticks",
+    "category": "Sides & Appetizers",
+    "description": "Breaded mozzarella with marinara sauce",
+    "ingredients": [
+      "mozzarella cheese",
+      "breadcrumbs",
+      "marinara sauce",
+      "italian herbs"
+    ],
+    "price": 8.2,
+    "calories": 308,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 80,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "mozzarella-sticks-sides-appetizers"
+  },
+  {
+    "product_id": "FF043",
+    "name": "Onion Rings",
+    "category": "Sides & Appetizers",
+    "description": "Beer-battered crispy onion rings",
+    "ingredients": [
+      "onions",
+      "beer batter",
+      "seasoned flour",
+      "oil"
+    ],
+    "price": 8.28,
+    "calories": 388,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 71,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "onion-rings-sides-appetizers"
+  },
+  {
+    "product_id": "FF044",
+    "name": "Loaded Nachos",
+    "category": "Sides & Appetizers",
+    "description": "Tortilla chips with cheese, jalapeños, and toppings",
+    "ingredients": [
+      "tortilla chips",
+      "cheese sauce",
+      "jalapeños",
+      "sour cream",
+      "guacamole"
+    ],
+    "price": 6.31,
+    "calories": 331,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 89,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "loaded-nachos-sides-appetizers"
+  },
+  {
+    "product_id": "FF045",
+    "name": "Jalapeño Poppers",
+    "category": "Sides & Appetizers",
+    "description": "Cream cheese filled jalapeños wrapped in bacon",
+    "ingredients": [
+      "jalapeños",
+      "cream cheese",
+      "bacon",
+      "breadcrumbs"
+    ],
+    "price": 9.21,
+    "calories": 269,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "spicy",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 73,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "jalapeño-poppers-sides-appetizers"
+  },
+  {
+    "product_id": "FF046",
+    "name": "Onion Rings",
+    "category": "Sides & Appetizers",
+    "description": "Beer-battered crispy onion rings",
+    "ingredients": [
+      "onions",
+      "beer batter",
+      "seasoned flour",
+      "oil"
+    ],
+    "price": 7.65,
+    "calories": 307,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 67,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "onion-rings-sides-appetizers"
+  },
+  {
+    "product_id": "FF047",
+    "name": "Mozzarella Sticks",
+    "category": "Sides & Appetizers",
+    "description": "Breaded mozzarella with marinara sauce",
+    "ingredients": [
+      "mozzarella cheese",
+      "breadcrumbs",
+      "marinara sauce",
+      "italian herbs"
+    ],
+    "price": 6.21,
+    "calories": 257,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 67,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "mozzarella-sticks-sides-appetizers"
+  },
+  {
+    "product_id": "FF048",
+    "name": "Buffalo Cauliflower",
+    "category": "Sides & Appetizers",
+    "description": "Crispy cauliflower tossed in buffalo sauce",
+    "ingredients": [
+      "cauliflower",
+      "buffalo sauce",
+      "ranch dressing",
+      "celery"
+    ],
+    "price": 5.96,
+    "calories": 265,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "buffalo-cauliflower-sides-appetizers"
+  },
+  {
+    "product_id": "FF049",
+    "name": "Mac and Cheese Bites",
+    "category": "Sides & Appetizers",
+    "description": "Fried mac and cheese balls",
+    "ingredients": [
+      "macaroni",
+      "cheese",
+      "breadcrumbs",
+      "ranch dressing"
+    ],
+    "price": 9.42,
+    "calories": 305,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 89,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "mac-and-cheese-bites-sides-appetizers"
+  },
+  {
+    "product_id": "FF050",
+    "name": "Buffalo Cauliflower",
+    "category": "Sides & Appetizers",
+    "description": "Crispy cauliflower tossed in buffalo sauce",
+    "ingredients": [
+      "cauliflower",
+      "buffalo sauce",
+      "ranch dressing",
+      "celery"
+    ],
+    "price": 5.19,
+    "calories": 408,
+    "prep_time": "5-7 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 83,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "buffalo-cauliflower-sides-appetizers"
+  },
+  {
+    "product_id": "FF051",
+    "name": "Mango Lassi",
+    "category": "Beverages",
+    "description": "Traditional yogurt-based mango drink",
+    "ingredients": [
+      "mango pulp",
+      "yogurt",
+      "cardamom",
+      "honey"
+    ],
+    "price": 6.58,
+    "calories": 170,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 89,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "mango-lassi-beverages"
+  },
+  {
+    "product_id": "FF052",
+    "name": "Energy Boost",
+    "category": "Beverages",
+    "description": "Natural energy drink with guarana",
+    "ingredients": [
+      "guarana",
+      "natural caffeine",
+      "fruit juices",
+      "vitamins"
+    ],
+    "price": 3.17,
+    "calories": 187,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 79,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "energy-boost-beverages"
+  },
+  {
+    "product_id": "FF053",
+    "name": "Green Tea",
+    "category": "Beverages",
+    "description": "Antioxidant-rich green tea",
+    "ingredients": [
+      "green tea leaves",
+      "hot water",
+      "honey"
+    ],
+    "price": 4.43,
+    "calories": 130,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 83,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "green-tea-beverages"
+  },
+  {
+    "product_id": "FF054",
+    "name": "Orange Julius",
+    "category": "Beverages",
+    "description": "Creamy orange drink with vanilla",
+    "ingredients": [
+      "orange juice",
+      "milk",
+      "vanilla",
+      "ice",
+      "sugar"
+    ],
+    "price": 6.67,
+    "calories": 171,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 91,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "orange-julius-beverages"
+  },
+  {
+    "product_id": "FF055",
+    "name": "Chocolate Milkshake",
+    "category": "Beverages",
+    "description": "Rich chocolate shake with whipped cream",
+    "ingredients": [
+      "chocolate ice cream",
+      "milk",
+      "whipped cream",
+      "chocolate syrup"
+    ],
+    "price": 4.95,
+    "calories": 65,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 84,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "chocolate-milkshake-beverages"
+  },
+  {
+    "product_id": "FF056",
+    "name": "Classic Coca-Cola",
+    "category": "Beverages",
+    "description": "Refreshing cola with ice",
+    "ingredients": [
+      "coca-cola syrup",
+      "carbonated water",
+      "ice"
+    ],
+    "price": 6.54,
+    "calories": 90,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 81,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "classic-coca-cola-beverages"
+  },
+  {
+    "product_id": "FF057",
+    "name": "Orange Julius",
+    "category": "Beverages",
+    "description": "Creamy orange drink with vanilla",
+    "ingredients": [
+      "orange juice",
+      "milk",
+      "vanilla",
+      "ice",
+      "sugar"
+    ],
+    "price": 3.44,
+    "calories": 169,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 65,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "orange-julius-beverages"
+  },
+  {
+    "product_id": "FF058",
+    "name": "Fresh Lemonade",
+    "category": "Beverages",
+    "description": "Freshly squeezed lemon with mint",
+    "ingredients": [
+      "fresh lemons",
+      "sugar",
+      "water",
+      "mint leaves"
+    ],
+    "price": 3.82,
+    "calories": 260,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 77,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "fresh-lemonade-beverages"
+  },
+  {
+    "product_id": "FF059",
+    "name": "Strawberry Smoothie",
+    "category": "Beverages",
+    "description": "Fresh strawberries blended with yogurt",
+    "ingredients": [
+      "strawberries",
+      "greek yogurt",
+      "honey",
+      "ice"
+    ],
+    "price": 5.44,
+    "calories": 144,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 76,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "strawberry-smoothie-beverages"
+  },
+  {
+    "product_id": "FF060",
+    "name": "Root Beer Float",
+    "category": "Beverages",
+    "description": "Classic root beer with vanilla ice cream",
+    "ingredients": [
+      "root beer",
+      "vanilla ice cream",
+      "whipped cream"
+    ],
+    "price": 5.85,
+    "calories": 110,
+    "prep_time": "2-3 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 94,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "root-beer-float-beverages"
+  },
+  {
+    "product_id": "FF061",
+    "name": "Cookies and Cream Shake",
+    "category": "Desserts",
+    "description": "Oreo cookie milkshake",
+    "ingredients": [
+      "vanilla ice cream",
+      "oreo cookies",
+      "milk",
+      "whipped cream"
+    ],
+    "price": 6.5,
+    "calories": 427,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 71,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "cookies-and-cream-shake-desserts"
+  },
+  {
+    "product_id": "FF062",
+    "name": "Apple Pie Slice",
+    "category": "Desserts",
+    "description": "Classic apple pie with cinnamon",
+    "ingredients": [
+      "apples",
+      "pie crust",
+      "cinnamon",
+      "sugar",
+      "butter"
+    ],
+    "price": 7.41,
+    "calories": 525,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 86,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "apple-pie-slice-desserts"
+  },
+  {
+    "product_id": "FF063",
+    "name": "Tiramisu",
+    "category": "Desserts",
+    "description": "Italian coffee-flavored dessert",
+    "ingredients": [
+      "mascarpone",
+      "coffee",
+      "ladyfingers",
+      "cocoa powder",
+      "sugar"
+    ],
+    "price": 8.17,
+    "calories": 363,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 66,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "tiramisu-desserts"
+  },
+  {
+    "product_id": "FF064",
+    "name": "Peach Cobbler",
+    "category": "Desserts",
+    "description": "Warm peach cobbler with vanilla ice cream",
+    "ingredients": [
+      "peaches",
+      "flour",
+      "sugar",
+      "butter",
+      "vanilla ice cream"
+    ],
+    "price": 8.53,
+    "calories": 534,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 95,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "peach-cobbler-desserts"
+  },
+  {
+    "product_id": "FF065",
+    "name": "Apple Pie Slice",
+    "category": "Desserts",
+    "description": "Classic apple pie with cinnamon",
+    "ingredients": [
+      "apples",
+      "pie crust",
+      "cinnamon",
+      "sugar",
+      "butter"
+    ],
+    "price": 7.08,
+    "calories": 537,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 86,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "apple-pie-slice-desserts"
+  },
+  {
+    "product_id": "FF066",
+    "name": "Tiramisu",
+    "category": "Desserts",
+    "description": "Italian coffee-flavored dessert",
+    "ingredients": [
+      "mascarpone",
+      "coffee",
+      "ladyfingers",
+      "cocoa powder",
+      "sugar"
+    ],
+    "price": 8.8,
+    "calories": 525,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 83,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "tiramisu-desserts"
+  },
+  {
+    "product_id": "FF067",
+    "name": "Brownies",
+    "category": "Desserts",
+    "description": "Fudgy chocolate brownies",
+    "ingredients": [
+      "chocolate",
+      "butter",
+      "sugar",
+      "eggs",
+      "flour",
+      "walnuts"
+    ],
+    "price": 6.29,
+    "calories": 473,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "nuts",
+      "eggs"
+    ],
+    "popularity_score": 72,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "brownies-desserts"
+  },
+  {
+    "product_id": "FF068",
+    "name": "Churros",
+    "category": "Desserts",
+    "description": "Crispy churros with cinnamon sugar",
+    "ingredients": [
+      "flour",
+      "butter",
+      "eggs",
+      "cinnamon",
+      "sugar",
+      "chocolate sauce"
+    ],
+    "price": 8.4,
+    "calories": 385,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "eggs"
+    ],
+    "popularity_score": 78,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "churros-desserts"
+  },
+  {
+    "product_id": "FF069",
+    "name": "Cookies and Cream Shake",
+    "category": "Desserts",
+    "description": "Oreo cookie milkshake",
+    "ingredients": [
+      "vanilla ice cream",
+      "oreo cookies",
+      "milk",
+      "whipped cream"
+    ],
+    "price": 6.91,
+    "calories": 396,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 87,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "cookies-and-cream-shake-desserts"
+  },
+  {
+    "product_id": "FF070",
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "description": "New York style cheesecake with berry sauce",
+    "ingredients": [
+      "cream cheese",
+      "graham crackers",
+      "berries",
+      "sugar",
+      "eggs"
+    ],
+    "price": 7.13,
+    "calories": 422,
+    "prep_time": "5-8 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 73,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "cheesecake-desserts"
+  },
+  {
+    "product_id": "FF071",
+    "name": "Taco Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Lettuce with seasoned beef and toppings",
+    "ingredients": [
+      "lettuce",
+      "seasoned beef",
+      "cheese",
+      "tomatoes",
+      "salsa",
+      "tortilla bowl"
+    ],
+    "price": 9.17,
+    "calories": 269,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 78,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "taco-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF072",
+    "name": "Salmon Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Grilled salmon over mixed greens",
+    "ingredients": [
+      "grilled salmon",
+      "mixed greens",
+      "avocado",
+      "lemon dressing"
+    ],
+    "price": 14.02,
+    "calories": 426,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [],
+    "popularity_score": 82,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "salmon-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF073",
+    "name": "Grilled Chicken Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Mixed greens with grilled chicken and vegetables",
+    "ingredients": [
+      "mixed greens",
+      "grilled chicken",
+      "tomatoes",
+      "cucumbers",
+      "ranch dressing"
+    ],
+    "price": 13.27,
+    "calories": 296,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [],
+    "popularity_score": 91,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "grilled-chicken-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF074",
+    "name": "Taco Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Lettuce with seasoned beef and toppings",
+    "ingredients": [
+      "lettuce",
+      "seasoned beef",
+      "cheese",
+      "tomatoes",
+      "salsa",
+      "tortilla bowl"
+    ],
+    "price": 11.3,
+    "calories": 426,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 67,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "taco-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF075",
+    "name": "Greek Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Fresh vegetables with feta and olives",
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "feta cheese",
+      "olives",
+      "greek dressing"
+    ],
+    "price": 12.8,
+    "calories": 256,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 74,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "greek-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF076",
+    "name": "Asian Chicken Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Mixed greens with sesame ginger dressing",
+    "ingredients": [
+      "mixed greens",
+      "grilled chicken",
+      "mandarin oranges",
+      "sesame dressing"
+    ],
+    "price": 12.81,
+    "calories": 335,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [],
+    "popularity_score": 75,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "asian-chicken-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF077",
+    "name": "Greek Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Fresh vegetables with feta and olives",
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "feta cheese",
+      "olives",
+      "greek dressing"
+    ],
+    "price": 12.06,
+    "calories": 215,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 94,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "greek-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF078",
+    "name": "Mediterranean Bowl",
+    "category": "Salads & Healthy Options",
+    "description": "Hummus bowl with fresh vegetables",
+    "ingredients": [
+      "hummus",
+      "cucumbers",
+      "tomatoes",
+      "olives",
+      "pita bread"
+    ],
+    "price": 9.45,
+    "calories": 233,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 94,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "mediterranean-bowl-salads-healthy-options"
+  },
+  {
+    "product_id": "FF079",
+    "name": "Cobb Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Lettuce with bacon, eggs, and blue cheese",
+    "ingredients": [
+      "lettuce",
+      "bacon",
+      "hard-boiled eggs",
+      "blue cheese",
+      "tomatoes"
+    ],
+    "price": 14.01,
+    "calories": 444,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 72,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "cobb-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF080",
+    "name": "Kale Superfood Salad",
+    "category": "Salads & Healthy Options",
+    "description": "Massaged kale with avocado and seeds",
+    "ingredients": [
+      "kale",
+      "avocado",
+      "sunflower seeds",
+      "cranberries",
+      "lemon vinaigrette"
+    ],
+    "price": 11.78,
+    "calories": 347,
+    "prep_time": "3-5 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "healthy",
+      "energizing"
+    ],
+    "allergens": [],
+    "popularity_score": 74,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "kale-superfood-salad-salads-healthy-options"
+  },
+  {
+    "product_id": "FF081",
+    "name": "Yogurt Parfait",
+    "category": "Breakfast Items",
+    "description": "Greek yogurt with granola and fruit",
+    "ingredients": [
+      "greek yogurt",
+      "granola",
+      "mixed berries",
+      "honey"
+    ],
+    "price": 9.85,
+    "calories": 548,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 89,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "yogurt-parfait-breakfast-items"
+  },
+  {
+    "product_id": "FF082",
+    "name": "Breakfast Burrito",
+    "category": "Breakfast Items",
+    "description": "Eggs, bacon, and hash browns wrapped",
+    "ingredients": [
+      "eggs",
+      "bacon",
+      "hash browns",
+      "cheese",
+      "tortilla",
+      "salsa"
+    ],
+    "price": 9.68,
+    "calories": 479,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 90,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "breakfast-burrito-breakfast-items"
+  },
+  {
+    "product_id": "FF083",
+    "name": "Breakfast Quesadilla",
+    "category": "Breakfast Items",
+    "description": "Scrambled eggs and cheese in tortilla",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "flour tortilla",
+      "sausage",
+      "peppers"
+    ],
+    "price": 12.95,
+    "calories": 463,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 81,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "breakfast-quesadilla-breakfast-items"
+  },
+  {
+    "product_id": "FF084",
+    "name": "Eggs Benedict",
+    "category": "Breakfast Items",
+    "description": "Poached eggs with hollandaise on english muffin",
+    "ingredients": [
+      "poached eggs",
+      "english muffin",
+      "ham",
+      "hollandaise sauce"
+    ],
+    "price": 12.13,
+    "calories": 506,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "eggs"
+    ],
+    "popularity_score": 82,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "eggs-benedict-breakfast-items"
+  },
+  {
+    "product_id": "FF085",
+    "name": "Yogurt Parfait",
+    "category": "Breakfast Items",
+    "description": "Greek yogurt with granola and fruit",
+    "ingredients": [
+      "greek yogurt",
+      "granola",
+      "mixed berries",
+      "honey"
+    ],
+    "price": 11.56,
+    "calories": 646,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 72,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "yogurt-parfait-breakfast-items"
+  },
+  {
+    "product_id": "FF086",
+    "name": "Bacon and Eggs",
+    "category": "Breakfast Items",
+    "description": "Classic breakfast with hash browns",
+    "ingredients": [
+      "bacon",
+      "eggs",
+      "hash browns",
+      "toast",
+      "butter"
+    ],
+    "price": 8.5,
+    "calories": 463,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "eggs"
+    ],
+    "popularity_score": 69,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "bacon-and-eggs-breakfast-items"
+  },
+  {
+    "product_id": "FF087",
+    "name": "Breakfast Burrito",
+    "category": "Breakfast Items",
+    "description": "Eggs, bacon, and hash browns wrapped",
+    "ingredients": [
+      "eggs",
+      "bacon",
+      "hash browns",
+      "cheese",
+      "tortilla",
+      "salsa"
+    ],
+    "price": 9.51,
+    "calories": 637,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 68,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "breakfast-burrito-breakfast-items"
+  },
+  {
+    "product_id": "FF088",
+    "name": "French Toast",
+    "category": "Breakfast Items",
+    "description": "Thick-cut brioche french toast",
+    "ingredients": [
+      "brioche bread",
+      "eggs",
+      "milk",
+      "cinnamon",
+      "maple syrup"
+    ],
+    "price": 7.43,
+    "calories": 638,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 85,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "french-toast-breakfast-items"
+  },
+  {
+    "product_id": "FF089",
+    "name": "Breakfast Burrito",
+    "category": "Breakfast Items",
+    "description": "Eggs, bacon, and hash browns wrapped",
+    "ingredients": [
+      "eggs",
+      "bacon",
+      "hash browns",
+      "cheese",
+      "tortilla",
+      "salsa"
+    ],
+    "price": 12.2,
+    "calories": 639,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 84,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "breakfast-burrito-breakfast-items"
+  },
+  {
+    "product_id": "FF090",
+    "name": "Bacon and Eggs",
+    "category": "Breakfast Items",
+    "description": "Classic breakfast with hash browns",
+    "ingredients": [
+      "bacon",
+      "eggs",
+      "hash browns",
+      "toast",
+      "butter"
+    ],
+    "price": 8.98,
+    "calories": 425,
+    "prep_time": "8-12 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "eggs"
+    ],
+    "popularity_score": 75,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "bacon-and-eggs-breakfast-items"
+  },
+  {
+    "product_id": "FF091",
+    "name": "Pumpkin Spice Burger",
+    "category": "Limited Time Specials",
+    "description": "Seasonal burger with pumpkin spice aioli",
+    "ingredients": [
+      "beef patty",
+      "pumpkin spice aioli",
+      "caramelized onions",
+      "gouda cheese"
+    ],
+    "price": 13.09,
+    "calories": 779,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 74,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 3,
+    "image_prompt": "pumpkin-spice-burger-limited-time-specials"
+  },
+  {
+    "product_id": "FF092",
+    "name": "Sriracha Honey Pizza",
+    "category": "Limited Time Specials",
+    "description": "Sweet and spicy pizza combination",
+    "ingredients": [
+      "pizza dough",
+      "sriracha honey sauce",
+      "chicken",
+      "mozzarella"
+    ],
+    "price": 11.45,
+    "calories": 818,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 75,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 6,
+    "image_prompt": "sriracha-honey-pizza-limited-time-specials"
+  },
+  {
+    "product_id": "FF093",
+    "name": "Spicy Ghost Pepper Wings",
+    "category": "Limited Time Specials",
+    "description": "Extremely hot ghost pepper wings",
+    "ingredients": [
+      "chicken wings",
+      "ghost pepper sauce",
+      "cooling ranch",
+      "celery"
+    ],
+    "price": 17.57,
+    "calories": 665,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 92,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 1,
+    "image_prompt": "spicy-ghost-pepper-wings-limited-time-specials"
+  },
+  {
+    "product_id": "FF094",
+    "name": "Sriracha Honey Pizza",
+    "category": "Limited Time Specials",
+    "description": "Sweet and spicy pizza combination",
+    "ingredients": [
+      "pizza dough",
+      "sriracha honey sauce",
+      "chicken",
+      "mozzarella"
+    ],
+    "price": 16.93,
+    "calories": 660,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 84,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 3,
+    "image_prompt": "sriracha-honey-pizza-limited-time-specials"
+  },
+  {
+    "product_id": "FF095",
+    "name": "Spicy Ghost Pepper Wings",
+    "category": "Limited Time Specials",
+    "description": "Extremely hot ghost pepper wings",
+    "ingredients": [
+      "chicken wings",
+      "ghost pepper sauce",
+      "cooling ranch",
+      "celery"
+    ],
+    "price": 11.34,
+    "calories": 818,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "spicy",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [],
+    "popularity_score": 77,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 2,
+    "image_prompt": "spicy-ghost-pepper-wings-limited-time-specials"
+  },
+  {
+    "product_id": "FF096",
+    "name": "Pumpkin Spice Burger",
+    "category": "Limited Time Specials",
+    "description": "Seasonal burger with pumpkin spice aioli",
+    "ingredients": [
+      "beef patty",
+      "pumpkin spice aioli",
+      "caramelized onions",
+      "gouda cheese"
+    ],
+    "price": 14.62,
+    "calories": 870,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 89,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 1,
+    "image_prompt": "pumpkin-spice-burger-limited-time-specials"
+  },
+  {
+    "product_id": "FF097",
+    "name": "Loaded Breakfast Pizza",
+    "category": "Limited Time Specials",
+    "description": "Pizza topped with breakfast items",
+    "ingredients": [
+      "pizza dough",
+      "eggs",
+      "bacon",
+      "sausage",
+      "cheese",
+      "hash browns"
+    ],
+    "price": 16.48,
+    "calories": 856,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy",
+      "eggs"
+    ],
+    "popularity_score": 90,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 1,
+    "image_prompt": "loaded-breakfast-pizza-limited-time-specials"
+  },
+  {
+    "product_id": "FF098",
+    "name": "S'mores Burger",
+    "category": "Limited Time Specials",
+    "description": "Chocolate, marshmallow, and graham dessert burger",
+    "ingredients": [
+      "chocolate patty",
+      "marshmallow",
+      "graham cracker bun",
+      "vanilla ice cream"
+    ],
+    "price": 12.01,
+    "calories": 804,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 94,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 0,
+    "image_prompt": "s'mores-burger-limited-time-specials"
+  },
+  {
+    "product_id": "FF099",
+    "name": "S'mores Burger",
+    "category": "Limited Time Specials",
+    "description": "Chocolate, marshmallow, and graham dessert burger",
+    "ingredients": [
+      "chocolate patty",
+      "marshmallow",
+      "graham cracker bun",
+      "vanilla ice cream"
+    ],
+    "price": 16.98,
+    "calories": 735,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "mild",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 76,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 0,
+    "image_prompt": "s'mores-burger-limited-time-specials"
+  },
+  {
+    "product_id": "FF100",
+    "name": "Unicorn Frappé",
+    "category": "Limited Time Specials",
+    "description": "Colorful magical drink",
+    "ingredients": [
+      "vanilla base",
+      "rainbow syrup",
+      "whipped cream",
+      "edible glitter"
+    ],
+    "price": 12.35,
+    "calories": 822,
+    "prep_time": "10-15 mins",
+    "dietary_tags": [
+      "mild",
+      "gluten-free"
+    ],
+    "mood_tags": [
+      "satisfying"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 87,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 3,
+    "image_prompt": "unicorn-frappé-limited-time-specials"
+  }
+]

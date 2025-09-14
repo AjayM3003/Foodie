@@ -56,8 +56,8 @@ foodiebot/
 └── README.md                     # This file
 ```
 
-HOW TO START THE APPLICATION
-python -m streamlit run enhanced_streamlit_app.py
+###HOW TO START THE APPLICATION
+- python -m streamlit run enhanced_streamlit_app.py
 
 ## 💻 Usage
 
@@ -249,4 +249,5 @@ Recommendations: Korean BBQ Tacos, Spicy Cajun Wings, Buffalo Chicken Burger
 ---
 
 *FoodieBot - Where AI meets your appetite!* 🍔🤖
+
 

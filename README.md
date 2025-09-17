@@ -33,29 +33,6 @@ FoodieBot is an intelligent conversational AI system that analyzes customer conv
 [Analytics] → [Database Logger] → [Real-time Dashboard]
 ```
 
-## 📁 Project Structure
-
-```
-foodiebot/
-├── data/
-│   ├── product_generator.py       # Generates 100 fast food products
-│   └── fast_food_products.json    # Generated product database
-├── database/
-│   ├── database_manager.py        # SQLite database operations
-│   └── foodiebot.db              # SQLite database file
-├── src/
-│   ├── interest_scorer.py         # Real-time interest scoring
-│   ├── foodie_agent.py           # Conversational AI agent
-│   └── recommendation_engine.py   # Multi-algorithm recommendations
-├── analytics/
-│   └── dashboard.py              # Analytics and visualization
-├── static/                       # Static web assets
-├── templates/                    # HTML templates
-├── app.py                        # Main Streamlit application
-├── requirements.txt              # Python dependencies
-└── README.md                     # This file
-```
-
 *** HOW TO RUN APPLICATION
 
 
@@ -259,4 +236,5 @@ Recommendations: Korean BBQ Tacos, Spicy Cajun Wings, Buffalo Chicken Burger
 ---
 
 *FoodieBot - Where AI meets your appetite!* 🍔🤖
+
 
